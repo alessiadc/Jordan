@@ -1,0 +1,13 @@
+.container 
+display: flex;
+
+    color: rgb(33, 26, 126);
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 2px solid rgba(33, 26, 126, 0.927);
+    padding: 8px;
+    border-radius: 10px;
+    margin: auto 30%;
+
+    #card {align-self: flex-end;}
+#card2 {align-self: flex-start;}
+#card3 {align-self: center;} 
